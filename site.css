@@ -5,7 +5,7 @@
 h1{
     font-family: 'Oswald', Verdana, Arial, sans-serif;
     font-size:3.052em;
-    background-color:  #eaebfa; 
+    background-color:  #eaebfa;
     border:1px solid #d6a800;
     font-weight: 700;
     text-transform: uppercase;
@@ -63,7 +63,7 @@ body{
 }
 a {
     font-size: 1.25em;
-    color: #ffffff;
+    color: slategrey;
     text-decoration: none;
 }
 
@@ -73,5 +73,3 @@ a:hover {
 a:visited {
   color: #e1fd12;
 }
-
-
